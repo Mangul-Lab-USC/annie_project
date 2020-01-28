@@ -1,0 +1,43 @@
+[2019-11-06 13:45:26.814] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-11-06 13:45:26.814] [jointLog] [info] parsing read library format
+[2019-11-06 13:45:26.814] [jointLog] [info] There is 1 library.
+[2019-11-06 13:45:26.928] [jointLog] [info] Loading Quasi index
+[2019-11-06 13:45:26.929] [jointLog] [info] Loading 32-bit quasi index
+[2019-11-06 13:46:14.863] [jointLog] [info] done
+[2019-11-06 13:46:14.863] [jointLog] [info] Index contained 199,612 targets
+[2019-11-06 13:46:16.471] [jointLog] [info] Automatically detected most likely library type as U
+[2019-11-06 14:06:36.322] [fileLog] [info] 
+At end of round 0
+==================
+Observed 212200004 total fragments (212200004 in most recent round)
+
+[2019-11-06 14:06:36.321] [jointLog] [info] Computed 572,305 rich equivalence classes for further processing
+[2019-11-06 14:06:36.321] [jointLog] [info] Counted 49,669,229 total reads in the equivalence classes 
+[2019-11-06 14:06:36.354] [jointLog] [info] Mapping rate = 23.4068%
+
+[2019-11-06 14:06:36.354] [jointLog] [info] finished quantifyLibrary()
+[2019-11-06 14:06:36.482] [jointLog] [info] Starting optimizer
+[2019-11-06 14:07:03.208] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-11-06 14:07:03.325] [jointLog] [info] iteration = 0 | max rel diff. = 48.7366
+[2019-11-06 14:07:12.901] [jointLog] [info] iteration = 100 | max rel diff. = 5.42611
+[2019-11-06 14:07:22.621] [jointLog] [info] iteration = 200 | max rel diff. = 1.83188
+[2019-11-06 14:07:32.515] [jointLog] [info] iteration = 300 | max rel diff. = 3.81175
+[2019-11-06 14:07:42.304] [jointLog] [info] iteration = 400 | max rel diff. = 0.451212
+[2019-11-06 14:07:52.008] [jointLog] [info] iteration = 500 | max rel diff. = 0.292153
+[2019-11-06 14:08:01.711] [jointLog] [info] iteration = 600 | max rel diff. = 0.167579
+[2019-11-06 14:08:10.962] [jointLog] [info] iteration = 700 | max rel diff. = 0.078984
+[2019-11-06 14:08:20.460] [jointLog] [info] iteration = 800 | max rel diff. = 0.153154
+[2019-11-06 14:08:30.249] [jointLog] [info] iteration = 900 | max rel diff. = 0.213429
+[2019-11-06 14:08:40.026] [jointLog] [info] iteration = 1,000 | max rel diff. = 0.0317852
+[2019-11-06 14:08:49.958] [jointLog] [info] iteration = 1,100 | max rel diff. = 0.0487499
+[2019-11-06 14:08:59.611] [jointLog] [info] iteration = 1,200 | max rel diff. = 0.0871656
+[2019-11-06 14:09:09.486] [jointLog] [info] iteration = 1,300 | max rel diff. = 0.0890872
+[2019-11-06 14:09:19.249] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.0172195
+[2019-11-06 14:09:28.288] [jointLog] [info] iteration = 1,493 | max rel diff. = 0.00993598
+[2019-11-06 14:09:28.308] [jointLog] [info] Finished optimizer
+[2019-11-06 14:09:28.308] [jointLog] [info] writing output 
+
+[2019-11-06 14:09:29.586] [jointLog] [warning] NOTE: Read Lib [[ HH003_A1_SA_S4_R1_001.fastq.gz ]] :
+
+Detected a *potential* strand bias > 1% in an unstranded protocol check the file: HH003_A1_SA_S4/lib_format_counts.json for details
+

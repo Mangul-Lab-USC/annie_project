@@ -1,0 +1,9 @@
+{
+    "salmon_version": "0.11.3",
+    "index": "/u/home/s/serghei/project/salmon.db/gencode.v27.transcripts",
+    "libType": "A",
+    "unmatedReads": "HH001_B3_SA_S3_R1_001.fastq.gz",
+    "threads": "8",
+    "output": "HH001_B3_SA_S3",
+    "auxDir": "aux_info"
+}

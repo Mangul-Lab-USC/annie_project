@@ -1,0 +1,10 @@
+SAMPLE,MSSA/MRSA,Date_of_First_(+)_Blood_Culture,time_point_collected(day),Persistent_Bacteremia?,Persistent_Bact?
+HH001_A1_SA_S1,MSSA,2/6/19,1,yes,1
+HH001_B1_SA_S2,MSSA,2/6/19,4,yes,1
+HH001_B3_SA_S3,MSSA,2/6/19,6,yes,1
+HH003_A1_SA_S4,MSSA,5/5/19,1,no,0
+HH003_A3_SA_S5,MSSA,5/5/19,3,no,0
+HH003_B3_SA_S6,MSSA,5/5/19,5,no,0
+HH003_D_SA_S7,MSSA,5/5/19,7,no,0
+HH003_K_SA_S8,MSSA,5/5/19,14,no,0
+HH003_R_SA_S9,MSSA,5/5/19,21,no,0

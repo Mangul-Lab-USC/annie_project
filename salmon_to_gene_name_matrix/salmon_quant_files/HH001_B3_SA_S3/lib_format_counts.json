@@ -1,0 +1,24 @@
+{
+    "read_files": [
+        "HH001_B3_SA_S3_R1_001.fastq.gz"
+    ],
+    "expected_format": "U",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 88306230,
+    "num_assigned_fragments": 88306230,
+    "num_frags_with_concordant_consistent_mappings": 90100192,
+    "num_frags_with_inconsistent_or_orphan_mappings": 0,
+    "strand_mapping_bias": 0.47235949286323389,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 0,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 0,
+    "SF": 42559681,
+    "SR": 47540511,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

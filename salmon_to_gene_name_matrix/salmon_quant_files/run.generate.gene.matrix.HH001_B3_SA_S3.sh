@@ -1,0 +1,1 @@
+python generate_gene_matrix.py HH001_B3_SA_S3/quant.sf HH001_B3_SA_S3
